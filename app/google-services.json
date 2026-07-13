@@ -1,0 +1,57 @@
+{
+  "project_info": {
+    "project_number": "628889837777",
+    "firebase_url": "https://ananta-gita-27b6b-default-rtdb.firebaseio.com",
+    "project_id": "ananta-gita-27b6b",
+    "storage_bucket": "ananta-gita-27b6b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628889837777:android:5d4990893e6c762acce5f0",
+        "android_client_info": {
+          "package_name": "com.anantagita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628889837777-j337eq3oothrvfjj4i3d60593b6sn07j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anantagita",
+            "certificate_hash": "d868be6b651e193831ba17d231d0c201d312ff94"
+          }
+        },
+        {
+          "client_id": "628889837777-uh00ta8h3dhlf3qa2pej8ctkbh6puu1q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anantagita",
+            "certificate_hash": "3299fe6d396a5f919762697bb03f5a681f2efd62"
+          }
+        },
+        {
+          "client_id": "628889837777-ep995ok98v715bq6ftltpc964tku88v0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEf0X3U3iTNX4BcfkKWDraUDE8xyeYtss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628889837777-ep995ok98v715bq6ftltpc964tku88v0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9218012224365288~7069659313"
+    }
+  ],
+  "configuration_version": "1"
+}

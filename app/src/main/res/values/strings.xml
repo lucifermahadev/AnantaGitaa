@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ananta Gita</string>
+
+    <string name="notification_title">Aaj ka Shlok</string>
+    <string name="notification_channel_name">Daily Notification</string>
+    <string name="notification_channel_description">Daily random Gita shloka</string>
+
+    <string name="app_open_ad_unit_id">ca-app-pub-9218012224365288/3258777943</string>
+    <string name="admob_app_id">ca-app-pub-9218012224365288~7069659313</string>
+    <string name="banner_ad_unit_id">ca-app-pub-9218012224365288/7740076296</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-9218012224365288/8522728823</string>
+
+    <string name="default_web_client_id">628889837777-ep995ok98v715bq6ftltpc964tku88v0.apps.googleusercontent.com</string>
+
+    <string name="quiz_completed">🎉 क्विज़ %1$d पूरा हुआ!</string>
+    <string name="your_score">आपका स्कोर:\n%1$d / %2$d</string>
+    <string name="score_details">प्रतिशत: %1$d%% | ग्रेड: %2$s</string>
+    <string name="go_to_next_quiz">👉 अगली क्विज़ पर जाएँ</string>
+    <string name="all_quizzes_complete">🏆 सभी क्विज़ पूरे!</string>
+    <string name="back_to_quiz_home">🏠 क्विज़ होम पर लौटें</string>
+
+    <string name="grade_a_en">🌟 Excellent! You are deeply imbibing the Gita’s wisdom.</string>
+    <string name="grade_b_en">💐 Great! Continue your practice and reflection.</string>
+    <string name="grade_c_en">✨ Good progress. Apply these teachings in daily life.</string>
+    <string name="grade_d_en">🙏 Fair effort. Keep revising, Krishna is guiding you.</string>
+    <string name="grade_e_en">📖 You are learning. Try to connect more with the meanings.</string>
+    <string name="grade_f_en">🌱 Don’t worry, every step on this path has value.</string>
+    <string name="grade_g_en">🌿 Keep practicing, improvement will come naturally.</string>
+    <string name="grade_h_en">🌸 Small efforts bring big change. Keep moving forward.</string>
+    <string name="grade_i_en">🕉 Even a little effort on this path is never wasted. (Gita 2.40)</string>
+    <string name="grade_j_en">🌼 This is just the beginning. Reflect, improve, and live the teachings.</string>
+
+    <string name="grade_a_hi">🌟 उत्कृष्ट! आप गीता के ज्ञान को गहराई से आत्मसात कर रहे हैं।</string>
+    <string name="grade_b_hi">💐 बहुत अच्छा! अभ्यास और मनन जारी रखें।</string>
+    <string name="grade_c_hi">✨ अच्छी प्रगति। इन शिक्षाओं को अपने जीवन में उतारें।</string>
+    <string name="grade_d_hi">🙏 अच्छा प्रयास। अभ्यास करते रहें, कृष्ण आपका मार्गदर्शन कर रहे हैं।</string>
+    <string name="grade_e_hi">📖 आप सीख रहे हैं। अर्थ से और गहराई से जुड़ने की कोशिश करें।</string>
+    <string name="grade_f_hi">🌱 चिंता न करें, इस मार्ग का हर कदम मूल्यवान है।</string>
+    <string name="grade_g_hi">🌿 अभ्यास करते रहें, सुधार स्वयं होगा।</string>
+    <string name="grade_h_hi">🌸 छोटे प्रयास बड़े परिवर्तन लाते हैं। आगे बढ़ते रहें।</string>
+    <string name="grade_i_hi">🕉 इस मार्ग में किया गया थोड़ा सा प्रयास भी व्यर्थ नहीं जाता। (गीता 2.40)</string>
+    <string name="grade_j_hi">🌼 यह तो बस शुरुआत है। चिंतन करें, सुधार करें और शिक्षाओं को जीवन में उतारें।</string>
+
+</resources>

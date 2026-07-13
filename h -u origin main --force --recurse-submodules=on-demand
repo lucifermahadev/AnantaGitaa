@@ -1,0 +1,13 @@
+user.name=Ishan Mall
+user.email=ishanmall789@gmail.com
+http.postbuffer=1048576000
+http.version=HTTP/1.1
+http.maxrequestbuffer=100M
+http.lowspeedlimit=0
+http.lowspeedtime=999999
+core.compression=9
+filter.lfs.required=true
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+credential.helper=manager
